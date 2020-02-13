@@ -1,3 +1,6 @@
+#This library is very good to open geophysicians data
+
+
 # SegyMAT
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2648001.svg)](https://doi.org/10.5281/zenodo.2648001)
 
